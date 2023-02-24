@@ -1,0 +1,19 @@
+---
+name: 'Basanta Humagin'
+age: 200
+awesome: true
+pi: 2.124
+topics:
+  -Yaml
+  -Markdown
+  -Python 
+  -It Carrers
+dict:
+  Address:
+    add1:
+    add2:
+  Phone:
+    phone1:
+    phone2:
+# this is comment
+...
