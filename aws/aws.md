@@ -1,9 +1,13 @@
-# title 
-**strong**
-tables
+# Title 
+>## Heading 2
+**Bold** 
+
+***bold * _italic_**
+
+# Tables
 |this | is | tbls |
-|---|---|---|
-|one| two|three
+|---- |--- |   ---|
+|one  | two|three |
 
 >this is highlighted file 
 1. this is one '
