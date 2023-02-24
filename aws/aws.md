@@ -1,3 +1,20 @@
-**First learning git**
+# title 
+**strong**
+tables
+|this | is | tbls |
+|---|---|---|
+|one| two|three
 
-#task 1
+>this is highlighted file 
+1. this is one '
+2. this is three
+3. this is four
+4. this is 
+    -this is four 
+    *this is 
+
+***
+```Python
+this is code sectioh
+Print("This is pythosb ")
+```
