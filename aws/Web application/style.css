@@ -30,8 +30,8 @@
 /* Create two equal columns that floats next to each other */
  .left {
     contain-intrinsic-height: 10;
-    margin: 10,5,3 ;
-    padding-left: 1%;
+    /* padding-left: 1%;
+    margin: 10,5,3 ; */
     }
      .left p {
     font-size: 0.8em;
